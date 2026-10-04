@@ -3,7 +3,7 @@
   <br>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=%C2%A1Hola!+Soy+Juan+%F0%9F%91%8B;Estudiante+de+Creaci%C3%B3n+Digital;Dise%C3%B1o%2C+c%C3%B3digo+y+an%C3%A1lisis+de+usuarios;Aprendiendo+JavaScript+d%C3%ADa+a+d%C3%ADa" alt="Typing SVG" />
   <br>
-  <img src="https://komarev.com/ghpvc/?username=juanibanezo&label=Visitas&color=6C63FF&style=flat-square" alt="Visitas" />
+
 </div>
 
 <hr>
